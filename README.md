@@ -1,5 +1,7 @@
 # Say Intentions for Mac (X-Plane 12)
 
+![Fullscreen_21_5_2024__9_42_am](https://github.com/paulfisher53/SayIntentionsForMac/assets/25142601/aa8cfcf3-e0af-4721-9ac3-084c07db5871)
+
 ### Installation
 
 1. Install UTM (https://mac.getutm.app/)
